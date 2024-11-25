@@ -5,4 +5,9 @@
 #ifndef FUNCIONES_H
 #define FUNCIONES_H
 
-#endif //FUNCIONES_H
+
+int contar_lineas(const char *filename);
+
+#endif // FUNCIONES_H
+
+
